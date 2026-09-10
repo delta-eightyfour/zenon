@@ -21,3 +21,4 @@ zdel: remove package
 zgrade: sync database with central server, then update the packages on the system.
 ---
 zlist: list of all possible packages that are installable (this takes refrence from the local database file on your system)
+---
