@@ -1,7 +1,7 @@
 # zenon
 Package Manager Made For Lavender
 ---
-this repository holds the database and source for zenon
+this repository holds the database and source for zenon.
 lavender and zenon will always be open to us, and to all.
 ----
 # list of commands:
