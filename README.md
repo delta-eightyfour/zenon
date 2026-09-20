@@ -12,7 +12,7 @@ zmake: pull source and compile immediately
 ---
 zdate: update single package
 ---
-zsearch: find package, if incorrect spelling say "did you mean: <correct spelling"
+zsearch: find package, if incorrect spelling say "did you mean: <correct spelling>"
 ---
 zwipe: eviscerate dependencies from zdel'd packages
 ---
